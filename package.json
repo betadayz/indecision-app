@@ -32,7 +32,7 @@
     "webpack-dev-server": "^2.5.1"
   },
   "devDependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^6.0.7"
   }
 }
